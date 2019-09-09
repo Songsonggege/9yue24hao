@@ -48,3 +48,5 @@ with open("wg.csv", 'a', encoding='utf-8', newline="") as fp:
     writer.writeheader()  # 写入记录标题
     writer.writerows(values)
 
+
+print("autuor:Songsong")
